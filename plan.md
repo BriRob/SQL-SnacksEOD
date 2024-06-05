@@ -27,6 +27,11 @@ Add in snacks.sql statement to drop the snacks table if it exists
     - You can delete that original first entry in CLI or keep it before adding the insert statement in sql module
     - don't forget to .read snacks.sql and check that they all made it correctly
 
+### 3. Query
+- Snack named "Reese's Minis"
+- All snacks with type of "popcorn"
+- Snack with description that mentions anything with cheese
+
 
 ### 3. Update and DELETE snacks in CLI or in SQL file
 Try this one on your own!
