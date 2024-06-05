@@ -33,5 +33,5 @@ Add in snacks.sql statement to drop the snacks table if it exists
 - Snack with description that mentions anything with cheese
 
 
-### 3. Update and DELETE snacks in CLI or in SQL file
+### 4. Update and DELETE snacks in CLI or in SQL file
 Try this one on your own!
