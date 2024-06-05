@@ -1,5 +1,6 @@
 # SQL Snacks EOD W10 D3
 
+cd into sql directory
 Run `sqlite3 dev.db` in CLI
 
 ### 1. CREATE snacks table with attributes in snacks.sql
