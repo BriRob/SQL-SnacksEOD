@@ -18,3 +18,7 @@ VALUES
     ('Crispy and Peanut M&Ms', 'candy', 'Ever feel conflicted on which M&Ms to choose? Why not have both of only the best?'),
     ('Reese''s Minis', 'candy', 'IDK I just really like Reese''s'),
     ('Blueberry Balsamic', 'popcorn', 'Sweet and juicy blueberries paired with tangy balsamic vinegar for a surprising and sophisticated flavor combination.');
+
+-- SELECT name FROM snacks WHERE name = 'Reese''s Minis';
+-- SELECT name, type FROM snacks WHERE type = "popcorn";
+-- SELECT name, description FROM snacks WHERE description LIKE "%chees%";
